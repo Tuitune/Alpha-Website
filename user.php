@@ -60,12 +60,12 @@ if( isset($_COOKIE["ElevenPlusID"]) && isset($_COOKIE["ElevenPlusUsername"]))
     <main role="main" class="container" style: >
       <h1 class="mt-5">Welcome back!</h1>
       <p class="lead"></p>
-      <p>Back to <a href="../sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+      <p>BLAH BLAH BLAH.</p>
     </main>
 
     <footer class="footer">
       <div class="container">
-        <span class="text-muted">Place sticky footer content here.</span>
+        <span class="text-muted">By Rohan</span>
       </div>
     </footer>
 
